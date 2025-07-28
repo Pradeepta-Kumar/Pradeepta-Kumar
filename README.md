@@ -1,7 +1,7 @@
 ## Hi there, I'm Pradeepta Kumar Sahu 👋
 
-🔭 I’m worked on 5+ full stack projects along with an internship at Indsac Softech<br/>
-🌱 I’m currently learning AI Engineering & Data Science<br/>
+🔭 I’ve worked on 5+ full stack projects along with an internship at Indsac Softech<br/>
+🌱 Currently I’m pursuing AI Engineering & Data Science<br/>
 🤔 I’m looking for help with finding my first job to apply my learnings<br/>
 📫 How to reach me: [LinekdIn](https://www.linkedin.com/in/pradeepta-kumar/)<br/>
 😄 Pronouns: He/Him
